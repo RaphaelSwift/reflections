@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it ?
 It creates a file that will keep the differents versions of your files.
 You need to do it in order to "commit" to save different versions of your files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+We put the files we want to commit in the staging area, all our files are in our working directory, and the repository gives the status of both the staging area and working directory
+It prevents to commit unnecessary files
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use the git diff --staged command to check what changes have been made
