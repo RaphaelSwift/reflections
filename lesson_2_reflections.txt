@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it ?
+It creates a file that will keep the differents versions of your files.
+You need to do it in order to "commit" to save different versions of your files
