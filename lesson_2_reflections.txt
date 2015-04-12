@@ -17,3 +17,14 @@ To experiment different versions of a game for example , new utilities , designs
 How do the diagrams help you visualize the branch structure?
 
 By showing the branch names 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+To add both the changes from the 2 branches into one new commit
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+As there are oftens conflicts when merging, it's easier to let the user resolve them as it would be too "difficult" for git to figure out how to solve it
+
+
+
